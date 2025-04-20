@@ -51,3 +51,10 @@ yarn-error.log*
 *.tmp
 *.temp
 *.bak 
+
+# Cursor files and directories
+.cursor/
+*.cursor
+
+# Cursor specific files
+mcp.json
